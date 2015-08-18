@@ -1,0 +1,54 @@
+From ciws-announce at lists.berlios.de  Mon Sep 15 18:27:20 2008
+From: ciws-announce at lists.berlios.de (ciws-announce at lists.berlios.de)
+Date: Mon, 15 Sep 2008 18:27:20 +0200
+Subject: [Ciws-announce] test message
+Message-ID: <48CE8CE8.8080508@gensys-net.eu>
+
+Hi list,
+
+This is a test message,
+
+
+
+
+
+From ciws-announce at lists.berlios.de  Fri Sep 26 20:57:10 2008
+From: ciws-announce at lists.berlios.de (ciws-announce at lists.berlios.de)
+Date: Fri, 26 Sep 2008 20:57:10 +0200
+Subject: [Ciws-announce] Cooperation-iws 0.5.1 released
+Message-ID: <48DD3086.6060902@gensys-net.eu>
+
+Hi,
+
+I am pleased to announce the release of 0.5.1.
+
+Changes log:
+
+0.5.1 release
+
+- Change LiveUsb part from Live-script, now you do not need disk space any more.
+- Fix syslinux dependency problem for Live Usb part of live script
+- Added some Artwork (Usplash, Wallpaper, Desktop icons)
+- Added Live Usb installer from booted liveCD (fork from https://launchpad.net/liveusb)
+- Set AMPP servers as facultative dependencies
+- Fix Cooperation-wui ordered list of web applications
+- Fix samba share privileges
+- Added Opengoo 0.8 module
+- Added Snif 1.5.2 module
+- Added EyeOS 1.6.0.3-1 module
+- Added Custom Akoie 0.5 module
+- Added Radria module
+- Added Moinmoin module
+- Added Twiki 4.2 module
+- Added Achievo 1.3.4 module
+- Added Ampache 3.4.3 module
+- Addded postfix, dovecot, postfixadmin, squirrelmail module
+- Added Cooperation-iws documentation module
+
+
+Regards,
+
+Oliv
+
+
+
